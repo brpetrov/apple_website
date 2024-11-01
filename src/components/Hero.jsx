@@ -5,7 +5,6 @@ const Hero = () => {
   useGSAP(() => {
     gsap.to('#hero', {
       opacity: 1,
-      duration: 1,
       delay: 1.5,
     });
   }, []);
