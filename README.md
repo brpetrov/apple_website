@@ -1,7 +1,8 @@
 # React + Vite
 
-<a name="tech-stack">⚙️ Tech Stack</a>
 <img src=".//public/assets/images/hero.jpeg" alt="Project Banner">
+
+<a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
 - Three.js
