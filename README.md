@@ -1,4 +1,4 @@
-# React + Vite
+# Iphone site
 
 <img src=".//public/assets/images/hero.jpeg" alt="Project Banner">
 
