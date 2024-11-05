@@ -31,6 +31,13 @@ const Footer = () => {
               </p>
             ))}
           </div>
+          <div className='bg-neutral-700 my-5 h-[1px]'></div>
+          <p className='font-semibold text-gray text-xs'>
+            Built by{' '}
+            <span className='text-white font-semibold'>
+              {'{ Boyan Petrov }'}
+            </span>
+          </p>
         </div>
       </div>
     </footer>
