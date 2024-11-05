@@ -24,10 +24,7 @@ const Footer = () => {
           <div className='flex'>
             {footerLinks.map((link, i) => (
               <p key={link} className='font-semibold text-gray text-xs'>
-                {link}{' '}
-                {i !== footerLinks.length - 1 && (
-                  <span className='mx-2'>|</span>
-                )}
+                {link} <span className=''> | </span>
               </p>
             ))}
           </div>
